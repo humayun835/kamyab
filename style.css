@@ -1,0 +1,35 @@
+/* h1{
+    color: blue;
+}*/
+/* 
+*{
+    color: orange;
+} */
+
+p.p {
+    color: red;
+}
+
+/* #p{
+    color: blue;
+} */
+
+li>a {
+    color: aqua;
+}
+
+li b {
+    color: aqua;
+}
+
+p>b {
+    color: blue;
+}
+
+h1~p {
+    color: crimson;
+}
+
+h1+p {
+    color: purple;
+}
